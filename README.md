@@ -65,7 +65,9 @@ QR_Decomposition(a)
 ```
 
 
-![exp no 8 mai](https://github.com/naveenraja2004/QRdecomposition/assets/118707204/033acd37-3431-4ff2-9913-4f0835a237c8)
+
+![maths exp no 8](https://github.com/naveenraja2004/QRdecomposition/assets/118707204/9996de22-0546-4ca5-83cd-b178df9f6063)
+
 
 
 ```
