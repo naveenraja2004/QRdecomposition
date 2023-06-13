@@ -1,4 +1,4 @@
-![maths exp no 8](https://github.com/naveenraja2004/QRdecomposition/assets/118707204/64cd5a94-84c8-444b-8968-f2173112181d)# Algorithm for QR Decomposition
+# Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -68,6 +68,7 @@ QR_Decomposition(a)
 
 
 
+![Uploading maths exp no 8.jpg…]()
 
 
 
