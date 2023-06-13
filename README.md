@@ -68,7 +68,7 @@ QR_Decomposition(a)
 
 
 
-![Uploading maths exp no 8.jpg…]()
+
 
 
 
